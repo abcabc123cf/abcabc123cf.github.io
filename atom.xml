@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>广州西游堂文化传媒有限公司</title>
+  
+  <subtitle>成就一代人的动画梦</subtitle>
+  <link href="http://abcabc123cf.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://abcabc123cf.github.io/"/>
+  <updated>2022-04-12T08:41:14.808Z</updated>
+  <id>http://abcabc123cf.github.io/</id>
+  
+  <author>
+    <name>西游堂</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>公司简介</title>
+    <link href="http://abcabc123cf.github.io/2022/04/06/%E5%85%AC%E5%8F%B8%E7%AE%80%E4%BB%8B/"/>
+    <id>http://abcabc123cf.github.io/2022/04/06/%E5%85%AC%E5%8F%B8%E7%AE%80%E4%BB%8B/</id>
+    <published>2022-04-06T07:14:16.000Z</published>
+    <updated>2022-04-12T08:41:14.808Z</updated>
+    
+    <content type="html"><![CDATA[<div align="center">    <img src="/images/6.jpg" width="800" heigh="300"></img></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div align=&quot;center&quot;&gt;
+    &lt;img src=&quot;/images/6.jpg&quot; width=&quot;800&quot; heigh=&quot;300&quot;&gt;&lt;/img&gt;
+&lt;/div&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
